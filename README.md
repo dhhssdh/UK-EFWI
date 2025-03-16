@@ -1,3 +1,9 @@
 # UK-EFWI
 The U-KAN based EFWI. 
-the U-Net and U-KAN is modified by https://github.com/JaouadT/KANU_Net/tree/main/src,
+
+The U-Net and U-KAN is modified by https://github.com/JaouadT/KANU_Net/tree/main/src
+
+The ./ultils/utils.py is following by https://github.com/YangFangShu/FWIGAN/blob/main/FWIGAN/utils/utils.py
+
+
+
